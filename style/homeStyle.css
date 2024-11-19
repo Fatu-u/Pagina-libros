@@ -1,0 +1,114 @@
+
+/* For the welcome box */
+    .welcome-container {
+            padding:192px 50px;
+            background-color: rgb(1, 58, 104);;
+            display: flex;
+            gap: 50px;
+            justify-content: center;
+        }
+
+        .welcome-container div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .welcome-container h1 {
+            color: white;
+            font-family: 'Courier New', monospace;
+            font-variant: small-caps;
+        }
+
+        .welcome-container p {
+            color: white;
+            font-family: 'Courier New', monospace;
+        }
+
+        .welcome-container img {
+            border-radius: 20px;
+        }
+
+
+/*For the about us section*/
+
+    .about-us{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items: stretch;
+            background-color: lightgray;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-items: center;
+            align-content: center;
+        }  
+
+        .about-us div.explanation{
+            width: 30%;
+            font-size: 20px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin: 0%;
+        }
+
+        .about-us img{
+            width: 58%;
+            height: 312px;
+        }
+
+        .about-us .explanation h1{
+            padding: 30px 0px;
+        }
+
+        .about-us .explanation p{
+            font-size: 20px;
+            padding: 20px 0px;
+        }
+    
+    .image-slide {
+            max-width: 500px;
+            margin: 10px 20px 30px 40px;
+        }
+
+        .image-slide img {
+            width: 90%;
+            height: 400px;
+            box-shadow: 10px 10px #666;
+            border-radius: 5px;
+        }
+
+        /* For the map and information part */
+
+        .mapouter {
+            position: relative;
+            width: 100%;
+        }
+        .business-info{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+    
+        .business-info .schedules-info{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+    
+            .business-info .schedules-info h3{
+                font-family: 'Finger Paint', cursive;
+                font-variant: small-caps;
+            }
+            .business-info .schedules-info p{
+                font-family: 'Finger Paint', cursive;
+                font-variant: small-caps;
+                font-weight: 100;
+            }
+/* For the category part */
+
+.main{
+    margin-left: 200px;
+}

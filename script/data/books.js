@@ -1,0 +1,222 @@
+export default [
+  {
+    "id": 1,
+    "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+    "name": "El Alquimista",
+    "author": "Paulo Coelho",
+    "description": "Un joven pastor emprende un viaje en busca de su leyenda personal.",
+    "genre": "Ficción",
+    "price": 9.99,
+    "publisher": "HarperCollins",
+    "sold_quantity": 1200
+  },
+  {
+    "id": 2,
+    "image": "https://covers.openlibrary.org/b/isbn/9780307474728-L.jpg",
+    "name": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "description": "La historia épica de la familia Buendía en el pueblo ficticio de Macondo.",
+    "genre": "Realismo mágico",
+    "price": 14.99,
+    "publisher": "Sudamericana",
+    "sold_quantity": 950
+  },
+  {
+    "id": 3,
+    "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+    "name": "1984",
+    "author": "George Orwell",
+    "description": "Una distopía sobre un mundo controlado por el Gran Hermano.",
+    "genre": "Ciencia ficción",
+    "price": 12.49,
+    "publisher": "Secker & Warburg",
+    "sold_quantity": 1325
+  },
+  {
+    "id": 4,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+    "name": "Orgullo y Prejuicio",
+    "author": "Jane Austen",
+    "description": "Una historia de amor y sociedad en la Inglaterra del siglo XIX.",
+    "genre": "Romance",
+    "price": 8.99,
+    "publisher": "T. Egerton",
+    "sold_quantity": 1100
+  },
+  {
+    "id": 5,
+    "image": "https://covers.openlibrary.org/b/isbn/9780439023481-L.jpg",
+    "name": "Los Juegos del Hambre",
+    "author": "Suzanne Collins",
+    "description": "Un mundo donde los jóvenes deben luchar a muerte en un espectáculo televisado.",
+    "genre": "Juvenil",
+    "price": 11.99,
+    "publisher": "Scholastic Press",
+    "sold_quantity": 2400
+  },
+  {
+    "id": 6,
+    "image": "https://covers.openlibrary.org/b/isbn/9780544003415-L.jpg",
+    "name": "El Señor de los Anillos",
+    "author": "J.R.R. Tolkien",
+    "description": "La épica aventura de Frodo y la Comunidad del Anillo.",
+    "genre": "Fantasía",
+    "price": 19.99,
+    "publisher": "George Allen & Unwin",
+    "sold_quantity": 1500
+  },
+  {
+    "id": 7,
+    "image": "https://covers.openlibrary.org/b/isbn/9780439554930-L.jpg",
+    "name": "Harry Potter y la Piedra Filosofal",
+    "author": "J.K. Rowling",
+    "description": "El inicio de las aventuras de Harry en Hogwarts.",
+    "genre": "Fantasía",
+    "price": 10.99,
+    "publisher": "Bloomsbury",
+    "sold_quantity": 2200
+  },
+  {
+    "id": 8,
+    "image": "https://covers.openlibrary.org/b/isbn/9780142437230-L.jpg",
+    "name": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "description": "La historia del caballero de la triste figura y su fiel escudero.",
+    "genre": "Clásico",
+    "price": 15.99,
+    "publisher": "Francisco de Robles",
+    "sold_quantity": 300
+  },
+  {
+    "id": 9,
+    "image": "https://covers.openlibrary.org/b/isbn/9780307277671-L.jpg",
+    "name": "El Código Da Vinci",
+    "author": "Dan Brown",
+    "description": "Un thriller lleno de secretos y misterios religiosos.",
+    "genre": "Suspenso",
+    "price": 13.99,
+    "publisher": "Doubleday",
+    "sold_quantity": 1800
+  },
+  {
+    "id": 10,
+    "image": "https://covers.openlibrary.org/b/isbn/9780141321072-L.jpg",
+    "name": "Alicia en el País de las Maravillas",
+    "author": "Lewis Carroll",
+    "description": "Una niña cae en un mundo mágico lleno de personajes peculiares.",
+    "genre": "Fantasía",
+    "price": 6.99,
+    "publisher": "Macmillan",
+    "sold_quantity": 1450
+  },
+  {
+    "id": 11,
+    "image": "https://covers.openlibrary.org/b/isbn/9780307389732-L.jpg",
+    "name": "Crónica de una Muerte Anunciada",
+    "author": "Gabriel García Márquez",
+    "description": "Un asesinato anunciado, pero nadie lo impide.",
+    "genre": "Realismo mágico",
+    "price": 10.99,
+    "publisher": "Mondadori",
+    "sold_quantity": 900
+  },
+  {
+    "id": 12,
+    "image": "https://covers.openlibrary.org/b/isbn/9780156012195-L.jpg",
+    "name": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "Una fábula sobre la vida, el amor y la amistad.",
+    "genre": "Ficción",
+    "price": 7.49,
+    "publisher": "Reynal & Hitchcock",
+    "sold_quantity": 3200
+  },
+  {
+    "id": 13,
+    "image": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
+    "name": "La Sombra del Viento",
+    "author": "Carlos Ruiz Zafón",
+    "description": "Un joven descubre un misterioso libro que cambiará su vida.",
+    "genre": "Misterio",
+    "price": 12.99,
+    "publisher": "Planeta",
+    "sold_quantity": 1100
+  },
+  {
+    "id": 14,
+    "image": "https://covers.openlibrary.org/b/isbn/9781501142970-L.jpg",
+    "name": "It",
+    "author": "Stephen King",
+    "description": "Un grupo de amigos enfrenta a un ser malévolo que adopta varias formas.",
+    "genre": "Terror",
+    "price": 14.99,
+    "publisher": "Viking",
+    "sold_quantity": 900
+  },
+  {
+    "id": 15,
+    "image": "https://covers.openlibrary.org/b/isbn/9781590302255-L.jpg",
+    "name": "El Arte de la Guerra",
+    "author": "Sun Tzu",
+    "description": "Un tratado sobre estrategia militar y liderazgo.",
+    "genre": "No ficción",
+    "price": 5.99,
+    "publisher": "Shambhala",
+    "sold_quantity": 550
+  },
+  {
+    "id": 16,
+    "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+    "name": "Sapiens: De animales a dioses",
+    "author": "Yuval Noah Harari",
+    "description": "Una breve historia de la humanidad.",
+    "genre": "Historia",
+    "price": 16.99,
+    "publisher": "Harper",
+    "sold_quantity": 1300
+  },
+  {
+    "id": 17,
+    "image": "https://covers.openlibrary.org/b/isbn/9780553213690-L.jpg",
+    "name": "La Metamorfosis",
+    "author": "Franz Kafka",
+    "description": "Un hombre se despierta convertido en un insecto gigante.",
+    "genre": "Ficción",
+    "price": 9.49,
+    "publisher": "Kurt Wolff Verlag",
+    "sold_quantity": 1150
+  },
+  {
+    "id": 18,
+    "image": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+    "name": "Matar a un Ruiseñor",
+    "author": "Harper Lee",
+    "description": "Una niña narra las tensiones raciales en el sur de EE.UU.",
+    "genre": "Clásico",
+    "price": 11.49,
+    "publisher": "J.B. Lippincott & Co.",
+    "sold_quantity": 1050
+  },
+  {
+    "id": 19,
+    "image": "https://covers.openlibrary.org/b/isbn/9780140448955-L.jpg",
+    "name": "La Divina Comedia",
+    "author": "Dante Alighieri",
+    "description": "Un poema épico que describe el viaje a través del infierno, el purgatorio y el paraíso.",
+    "genre": "Poesía",
+    "price": 18.99,
+    "publisher": "Giovanni Boccaccio",
+    "sold_quantity": 500
+  },
+  {
+    "id": 20,
+    "image": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+    "name": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "La aventura de Bilbo Bolsón en busca de un tesoro con enanos y dragones.",
+    "genre": "Fantasía",
+    "price": 9.99,
+    "publisher": "George Allen & Unwin",
+    "sold_quantity": 2000
+  }
+]
